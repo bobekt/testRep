@@ -13,4 +13,9 @@ class Money
     {
         return dolar;
     }
+
+    Rubel CreateRubel()
+    {
+        return rubel;
+    }
 }
