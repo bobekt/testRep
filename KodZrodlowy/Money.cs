@@ -8,4 +8,9 @@ class Money
     {
         amount = 0;
     }
+
+    Dolar CreateDolar()
+    {
+        return dolar;
+    }
 }

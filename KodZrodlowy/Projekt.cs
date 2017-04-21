@@ -1,6 +1,7 @@
 #using process
 
-Class Main(){
-
+Class Main()
+{
+    Money m = new Money();
 
 }
