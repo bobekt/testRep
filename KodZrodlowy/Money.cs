@@ -17,5 +17,10 @@ class Money
     Rubel CreateRubel()
     {
         return rubel;
+
+    Frank CreateFrank()
+    {
+        return frank;
+
     }
 }
