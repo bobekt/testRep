@@ -23,4 +23,9 @@ class Money
         return frank;
 
     }
+
+    Korona CreateKorona()
+        {
+            return korona;
+        }
 }
