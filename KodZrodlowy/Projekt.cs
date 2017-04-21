@@ -1,0 +1,6 @@
+#using process
+
+Class Main(){
+
+
+}
