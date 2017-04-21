@@ -13,4 +13,9 @@ class Money
     {
         return dolar;
     }
+
+    Frank CreateFrank()
+    {
+        return frank;
+    }
 }
