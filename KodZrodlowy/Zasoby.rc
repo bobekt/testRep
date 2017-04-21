@@ -1,2 +1,4 @@
 Toolbox 10, 20;
 Button panic 2x3;
+Menu noweMenu;
+MenuItem nowyplik;
