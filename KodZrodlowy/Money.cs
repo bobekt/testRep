@@ -28,4 +28,9 @@ class Money
         {
             return korona;
         }
+    
+    Euro CreateEuro()
+        {
+            return euro;
+        }
 }
